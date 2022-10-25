@@ -49,12 +49,12 @@ ul {
     padding: 0px;
 }
 
-li,
+li, 
 h3 {
     list-style: none;
 }
 
-input,
+input, 
 button {
     outline: none;
 }
